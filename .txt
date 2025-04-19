@@ -1,0 +1,14 @@
+for Api creation using mongodb => defineModels (check models)=> create controller (CRUD operation)=> create(Routes)(for seperate)
+
+|| backend (API) || middleware || FRONTEND (API FETCHING)
+
+CRUD operation =>{CREATE, READ, UPDATE , DELETE}
+
+
+
+
+
+
+
+
+//admin/seller=>controller=>middleware=>routes
